@@ -597,7 +597,7 @@ void filterFailing(studentList *list){
 
 }
 
-//Doesnt work 
+//Doesnt work :(
 void sortLastName(myNode *start, studentList *list){
 
     int ok, i;
